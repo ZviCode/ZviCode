@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1FF72F&center=true&vCenter=true&lines=Hello%2C+My+Name+Is+Zvi!)](https://git.io/typing-svg)
 
 
-[![Stats](https://statistics-i78vz6yf5-zvicodes-projects.vercel.app/api?username=ZviCode&show_icons=true&count_private=true&theme=dark&custom_title=My%20GitHub%20Stats&card_width=445)](https://github.com/ZviCode#gh-dark-mode-only)
-[![Top langs](https://statistics-i78vz6yf5-zvicodes-projects.vercel.app/api/top-langs/?username=ZviCode&layout=compact&hide=CSS&theme=dark&show_icons=true&count_private=true&card_width=445)](https://github.com/ZviCode#gh-dark-mode-only)
+[![Stats](https://statistics-5nevm94tx-zvicodes-projects.vercel.app/api?username=ZviCode&show_icons=true&count_private=true&theme=dark&custom_title=My%20GitHub%20Stats&card_width=445)](https://github.com/ZviCode#gh-dark-mode-only)
+[![Top langs](https://statistics-5nevm94tx-zvicodes-projects.vercel.app/api/top-langs/?username=ZviCode&layout=compact&hide=CSS&theme=dark&show_icons=true&count_private=true&card_width=445)](https://github.com/ZviCode#gh-dark-mode-only)
 
 <!--
 **ZviCode/ZviCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
