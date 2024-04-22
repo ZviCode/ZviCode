@@ -7,8 +7,6 @@
 
 [![Stats](https://github-readme-stats-sigma-lyart.vercel.app/api?username=ZviCode&show_icons=true&count_private=true&theme=dark&custom_title=My%20GitHub%20Stats&card_width=445)](https://github.com/ZviCode#gh-dark-mode-only)
 [![Top langs](https://github-readme-stats-sigma-lyart.vercel.app/api/top-langs/?username=ZviCode&layout=compact&hide=CSS&theme=dark&show_icons=true&count_private=true&card_width=445)](https://github.com/ZviCode#gh-dark-mode-only)
-[![Stats](https://github-readme-stats-sigma-lyart.vercel.app/api?username=ZviCode&show_icons=true&count_private=true&theme=dark&custom_title=My%20GitHub%20Stats&card_width=445)](https://github.com/ZviCode#gh-dark-mode-only)
-[![Top langs](https://github-readme-stats-sigma-lyart.vercel.app/api/top-langs/?username=ZviCode&layout=compact&hide=CSS&theme=dark&show_icons=true&count_private=true&card_width=445)](https://github.com/ZviCode#gh-dark-mode-only)
 
 <!--
 **ZviCode/ZviCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
